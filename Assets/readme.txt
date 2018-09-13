@@ -1,0 +1,2 @@
+创建SpriteAtlasPrefab，直接打开编辑：把相关sprite拖进左侧列表，然后在中间检查，最后在导出图集
+创建SpriteAnimationPrefab，把SpriteAtlasPrefab指给这位，编辑动画。
